@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vitor Mello Leite!
+# 👋 Olá, me chamo Vitor de Mello Leite!
 
 🎯 **Áreas de Atuação**  
 🔹 Segurança da Informação  
