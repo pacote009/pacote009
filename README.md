@@ -16,12 +16,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 🚀 **Projetos e Portfólio**  
-🔗 [Meu Portfólio](https://pacote009.github.io/meu-portfolio/)  
+🔗 [Meu Portfólio](https://github.com/pacote009/my-professional-showcase)  
 🔗 [Repositórios no GitHub](https://github.com/pacote009?tab=repositories)  
 
 📫 **Contato**  
 🔹 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-🔹 [E-mail](mailto:seu-email@exemplo.com)  
+🔹 [E-mail](mailto:vitor_melloleite@outlook.com)  
 
 ---
 ⭐ *Se gostou do meu perfil, deixe uma estrela nos repositórios!* ⭐
