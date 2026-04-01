@@ -98,9 +98,9 @@ Sistema estilo totem de autoatendimento com integração de pagamentos e impress
 
 ## 📫 Contato
 
-🔗 :contentReference[oaicite:0]{index=0}: https://linkedin.com/in/vitor-mello-analista  
-📧 Email: vitor_melloleite@outlook.com  
-💻 :contentReference[oaicite:1]{index=1}: https://github.com/pacote009  
+- 🔗 :contentReference[oaicite:2]{index=2}: https://linkedin.com/in/vitor-mello-analista  
+- 💻 :contentReference[oaicite:3]{index=3}: https://github.com/pacote009  
+- 📧 Email: vitor_melloleite@outlook.com  
 
 ---
 
