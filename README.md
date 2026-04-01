@@ -92,7 +92,7 @@ Sistema estilo totem de autoatendimento com integração de pagamentos e impress
 
 ## 🌐 Portfólio
 
-🔗 https://pacote009.github.io/meu-portfolio/  
+🔗 [https://pacote009.github.io/meu-portfolio/](https://pacote009.github.io/my-professional-showcase/)  
 
 ---
 
